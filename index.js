@@ -1,6 +1,8 @@
 //doubleValues
-const numbers = [1, 2, 3, 4, 5];
+//const numbers = [1, 2, 3, 4, 5];
+//const doubleValues = numbers.map(function(num) {
+    //return num * 2;
+//});
 
-numbers.forEach(function(val, callback) {
-    console.log(val);
-});
+//onlyEvenValues
+const numbers = [1, 2, 3, 4, 5];
